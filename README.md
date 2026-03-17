@@ -1,7 +1,7 @@
 # mega-to-colab-extractor
 A simple script to extract MEGA ZIP files directly in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rtyvub/mega-to-colab-extractor/blob/main/Mega_Extractor.ipynb)
 
 A quick Google Colab notebook to download and extract MEGA `.zip` files directly in a temporary cloud workspace. 
 
